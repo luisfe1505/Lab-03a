@@ -1,2 +1,3 @@
 # Lab-03a
-This repository is built to the class of computing environments and tools
+This repository is built to the class of computing environments and tools 
+Push to Github
